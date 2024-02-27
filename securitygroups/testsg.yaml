@@ -4,4 +4,4 @@ Resources:
     Type: AWS::S3::Bucket
     Properties:
       BucketName:
-        Fn::Sub: test-bucket-adkpermtdestgithub-${AWS::AccountId}
+        Fn::Sub: test-bucket-adkpermtdegstgithub-${AWS::AccountId}
